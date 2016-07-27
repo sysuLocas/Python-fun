@@ -4,7 +4,7 @@ import smtplib
 from email.mime.text import MIMEText
 mail_host="smtp.163.com"  #设置服务器
 mail_user="godblesshuang"    #用户名
-mail_pass="jxbm_163"   #口令
+mail_pass="xxx"   #口令
 mail_postfix="163.com"
 
 def send_mail(receiver,sub,content):
